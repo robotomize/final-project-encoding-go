@@ -12,6 +12,7 @@ func Encode(data encoding.MyEncoder) error {
 }
 
 func main() {
+	// test for screens
 	utils.CreateJSONFile()
 	utils.CreateYAMLFile()
 
